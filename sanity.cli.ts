@@ -5,6 +5,7 @@ export default defineCliConfig({
     projectId: 'qomqzwv7',
     dataset: 'production'
   },
+  studioHost: 'recipe-review-queue',
   deployment: {
     /**
      * Enable auto-updates for studios.
